@@ -1,10 +1,8 @@
-
 test1 hello world!
-hello world yeah by justin
+hello yeah yeah world yeah by justin
 
 Another hello from Justinklee
 
-Third hello from JustinKlee
+Third hello yo yo from JustinKlee
 
-Fourth hello from Justin2
-
+The other day is coming...
